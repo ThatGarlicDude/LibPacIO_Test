@@ -1,3 +1,13 @@
+2025-08-11 GarlicDude <https://www.github.com/ThatGarlicDude>
+
+	LibPacIO_Test Version 1.1.0
+	* Added flag.c and .h.
+		* These files contain functions for handling flags, as well as the flag index counter.
+		* It also includes a list of available flags that LibPacIO_Test with work with.
+	* Added path.c and .h.
+		* This file is unused for the time being.
+		* Nothing is added yet.
+
 2025-08-10 GarlicDude <https://www.github.com/ThatGarlicDude>
 
 	LibPacIO_Test Version 1.0.0
